@@ -6,5 +6,5 @@ Sharing in case it is useful to anyone.
 
 [YouTube tutorial](https://www.youtube.com/watch?v=Mr8H0irijhM)
 
-![](https://github.com/atarilover123/GaussianSplat_TD/blob/main/GaussianSplat_noise.png?raw=true "GaussianSplat")
+![](https://github.com/atarilover123/GaussianSplat_TD/blob/main/GaussianSplat_noise.png?raw=true)
 
