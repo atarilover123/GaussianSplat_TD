@@ -4,6 +4,7 @@ This is a modification of Tim Gerritsen's [Gaussian splat tox](https://derivativ
 I was unable to get it to work on my M1 Mac, making some minor alterations to the GLSL allowed me to run on Mac.
 Sharing in case it is useful to anyone. 
 
-<br> </br>
 [YouTube tutorial](https://www.youtube.com/watch?v=Mr8H0irijhM)
+
+![](https://github.com/atarilover123/GaussianSplat_TD/blob/main/GaussianSplat_noise.png?raw=true "GaussianSplat")
 
